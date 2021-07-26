@@ -1,4 +1,4 @@
-###https://sasina21.github.io/string2int/
+### https://sasina21.github.io/string2int/
 
 # string2int Challenge
 
