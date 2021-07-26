@@ -1,3 +1,5 @@
+###https://sasina21.github.io/string2int/
+
 # string2int Challenge
 
 For anyone who accept this challenge, you have to write the program in any language that can retrieve mixed both numerical and alphabetical character and return only the numerical value in interger format.
